@@ -1,0 +1,5 @@
+welcome_text: Welcome to the wiper control skill. You can say, tell my project to turn on, or, tell my project to turn off
+
+command: Turning your wiper {{ onOffCommand }}
+
+command_reprompt: Do you want to turn your wiper on, or, off
